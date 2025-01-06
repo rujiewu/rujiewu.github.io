@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@gmail.com. I am currently pursuing my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve Vision Language Models and Embodied Agents.
+My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at **rujie.wu.ac@gmail.com**. I am currently pursuing my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve Vision Language Models and Embodied Agents.
 
 
 
