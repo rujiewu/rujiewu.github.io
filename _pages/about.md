@@ -23,24 +23,22 @@ My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujiewu@gmai
 
 
 # 🔥 News
-- *2025.01*: 🎉🎉 Our paper "Bongard-OpenWorld: Few-Shot Reasoning
-for Free-form Visual Concepts in the Real World" has been accepted to [ICLR 2024](https://openreview.net/forum?id=hWS4MueyzC).
+- *2025.01*: 🎉🎉 Our paper "LongViTU: Instruction Tuning for Long-Form Video Understanding" has been released on [arXiv](https://arxiv.org/pdf/2310.10207).
 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/longvitu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/longvitu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bongard-OpenWorld: Few-Shot Reasoning
-for Free-form Visual Concepts in the Real World](https://arxiv.org/pdf/2310.10207)
+[LongViTU: Instruction Tuning for Long-Form Video Understanding](https://arxiv.org/pdf/2310.10207)
 
 **Rujie Wu**, Xiaojian Ma, Hai Ci, Yue Fan, Yuxuan Wang, Haozhe Zhao, Qing Li, Yizhou Wang
 
 School of Computer Science, Peking University
 
-**ICLR 2024** \|
+**arXiv** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.10207) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/rujiewu/Bongard-OpenWorld) \|
 [![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://rujiewu.github.io/Bongard-OpenWorld.github.io/) 
@@ -52,7 +50,7 @@ School of Computer Science, Peking University
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/embodiedvideoagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/pdf/2407.05282)
+[Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/pdf/2501.00358)
 
 Yue Fan, Xiaojian Ma, Rongpeng Su, Jun Guo, **Rujie Wu**, Xi Chen, Qing Li
 
@@ -60,7 +58,7 @@ School of Computer Science, Peking University
 
 **arXiv** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2501.00358) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/YueFan1014/VideoAgent) \|
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/YueFan1014/Embodied-VideoAgent) \|
 [![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://embodied-videoagent.github.io/)
 
 </div>
