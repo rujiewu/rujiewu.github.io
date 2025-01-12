@@ -23,7 +23,7 @@ My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@
 
 
 # 🔥 News
-- *2025.01*: 🎉🎉🎉 Our paper "LongViTU: Instruction Tuning for Long-Form Video Understanding" has been released on [arXiv](https://arxiv.org/abs/2310.10207).
+- *2025.01*: 🎉🎉🎉 Our paper "LongViTU: Instruction Tuning for Long-Form Video Understanding" has been released on [arXiv](https://arxiv.org/abs/2501.05037).
 
 
 
@@ -32,16 +32,16 @@ My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/longvitu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LongViTU: Instruction Tuning for Long-Form Video Understanding](https://arxiv.org/pdf/2310.10207)
+[LongViTU: Instruction Tuning for Long-Form Video Understanding](https://arxiv.org/pdf/2501.05037)
 
 **Rujie Wu**, Xiaojian Ma, Hai Ci, Yue Fan, Yuxuan Wang, Haozhe Zhao, Qing Li, Yizhou Wang
 
 School of Computer Science, Peking University
 
 **arXiv** \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.10207) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/rujiewu/Bongard-OpenWorld) \|
-[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://rujiewu.github.io/Bongard-OpenWorld.github.io/) 
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2501.05037) \| 
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/rujiewu/LongViTU) \|
+[![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://rujiewu.github.io/LongViTU.github.io/) 
 
 </div>
 </div>
