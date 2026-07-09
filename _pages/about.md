@@ -18,16 +18,33 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@gmail.com. I am currently pursuing my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve Vision Language Models and Embodied Agents.
+My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@gmail.com. I earned my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve World Action Models, Vision Language Models, and Embodied Agents.
 
 
 
 # 🔥 News
-- *2025.01*: 🎉🎉🎉 Our paper "LongViTU: Instruction Tuning for Long-Form Video Understanding" has been released on [arXiv](https://arxiv.org/abs/2501.05037).
+- *2026.07*: 🎉🎉🎉 Our paper "Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning" has been accepted to **ECCV 2026**!
 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/gdo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning](https://arxiv.org/pdf/2603.12478)
+
+**Rujie Wu**, Haozhe Zhao, Hai Ci, Yizhou Wang
+
+School of Computer Science, Peking University
+
+**ECCV 2026** \|
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2603.12478) \| 
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/rujiewu/GDO)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/longvitu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +64,7 @@ School of Computer Science, Peking University
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/embodiedvideoagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/embodiedvideoagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/pdf/2501.00358)
@@ -144,7 +161,7 @@ School of Computer Science, Peking University
 <div class='school-box'>
 <div><img src='images/pku.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.09 - now, PhD Candidate
+2022.09 - 2026.06, PhD
 
 School of Computer Science
 
