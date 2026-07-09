@@ -75,7 +75,7 @@ School of Computer Science, Peking University
 
 **ICCV 2025** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2501.00358) \| 
-[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/YueFan1014/Embodied-VideoAgent) \|
+[![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/Embodied-VideoAgent/embodied-videoagent) \|
 [![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://embodied-videoagent.github.io/)
 
 </div>
@@ -148,7 +148,7 @@ Hang Ye, Wentao Zhu, Chunyu Wang, **Rujie Wu**, Yizhou Wang
 School of Computer Science, Peking University
 
 **ECCV 2022** \|
-[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_9) \| 
+[![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2207.10955) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/AlvinYH/Faster-VoxelPose)
 
 </div>
