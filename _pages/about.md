@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@gmail.com. I earned my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve World Action Models, Vision Language Models, and Embodied Agents.
+My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at rujie.wu.ac@gmail.com. I earned my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve World Action Models and Embodied Physical AI.
 
 
 
@@ -73,7 +73,7 @@ Yue Fan, Xiaojian Ma, Rongpeng Su, Jun Guo, **Rujie Wu**, Xi Chen, Qing Li
 
 School of Computer Science, Peking University
 
-**arXiv** \|
+**ICCV 2025 (Spotlight)** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2501.00358) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/YueFan1014/Embodied-VideoAgent) \|
 [![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://embodied-videoagent.github.io/)
@@ -179,11 +179,3 @@ School of Computer Science
 Peking University, Beijing
 </div>
 </div>
-
-
-
-# 💻 Internships
-
-| Date    | Institution  | Group | Role | 
-| ---     | ---          | ---   | ---  |
-| 2022.08 - now | Beijing Institute for General Artificial Intelligence (BIGAI) | Machine Learning | Research Assistant |
